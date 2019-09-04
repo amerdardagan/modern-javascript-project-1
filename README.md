@@ -1,5 +1,5 @@
 # modern-javascript-project-1
-MODERN JAVASCRIPT PROJECT:  "Save into Local Storage from HTML Form" 
+MODERN JAVASCRIPT PROJECT:  "Save Tweets into Local Storage from HTML Form" 
 
 -The user can add new messages submitting at HTML Form
 
